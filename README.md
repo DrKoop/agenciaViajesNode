@@ -7,3 +7,6 @@ Index ->
 
 Secciones ->
 ![intro2](https://user-images.githubusercontent.com/95058605/234460344-b737ff29-e03e-485d-a945-41b13a0da53b.gif)
+
+Formulario Testimoniales + Validacíones
+![intro3](https://user-images.githubusercontent.com/95058605/234460938-fcdd2580-dfea-4588-aabe-4d1fe38fdf67.gif)
